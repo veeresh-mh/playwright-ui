@@ -1,0 +1,9 @@
+{
+    "server": "13.233.178.142",
+    "username": "admin",
+    "password": "Admin@1234",
+    "windowshostname": "EC2AMAZ-4EDP8MN",
+    "windowsip": "15.206.68.56",
+    "linuxhostname": "ip-172-31-22-42",
+    "linuxip": "3.110.182.215"
+}
